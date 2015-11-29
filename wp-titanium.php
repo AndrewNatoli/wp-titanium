@@ -2,10 +2,10 @@
 /**
  * Plugin Name: WordPress Tools for Titanium
  * Plugin URI: http://AndrewNatoli.com
- * Description: This plugin
+ * Description: Easily leverage the WP REST API to provide content to a mobile application built with Titanium
  * Version: 1.0.0
- * Author: Daniel Pataki
- * Author URI: http://danielpataki.com
+ * Author: Andrew Natoli
+ * Author URI: http://AndrewNatoli.com
  * License: GPL2
  */
 defined( 'ABSPATH' ) or die();
